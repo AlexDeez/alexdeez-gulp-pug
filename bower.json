@@ -6,12 +6,16 @@
     "afonin3600 <afonin3600@gmail.com>"
   ],
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/AlexDeez/alexdeez-gulp-pug",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "jquery": "^3.4.0"
+  }
 }
