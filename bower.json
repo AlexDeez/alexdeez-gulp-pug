@@ -1,0 +1,17 @@
+{
+  "name": "gulp-pug",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "afonin3600 <afonin3600@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
